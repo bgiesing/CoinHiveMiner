@@ -1,6 +1,8 @@
 # CoinHive Miner Embed Template
 This template allows you to easily embed the [CoinHive Miner](https://coin-hive.com) into your own site to earn money without ads by letting your site visitors optionally mine Monero (a cryptocurrency similar to Bitcoin, Ether, etc.) using their CPU power by leaving the page open.
 
+[Demo on my website](https://brandongiesing.com/cosimine/)
+
 ## Quick Start
 1. Signup for [CoinHive](https://coin-hive.com/account/signup)
 2. Once logged in, go to your [Sites & API Keys Settings](https://coin-hive.com/settings/sites) and then copy the text next to `Site Key (public)`
@@ -9,7 +11,7 @@ This template allows you to easily embed the [CoinHive Miner](https://coin-hive.
 5. Embed into your site with the following code (replace `USERNAME` with your GitHub username so for example, for me you would put `bgiesing`)
 
 ```html
-<div class="codegena_iframe"><iframe src="https://USERNAME.github.io/CoinHiveMiner/index.html" height="255" width="442"  style="border:0px;float:middle;"></iframe></div><style>.codegena_iframe{position:relative;padding-bottom:56.25%;height:0;overflow: hidden;max-width:100%;}.codegena_iframe iframe{position:absolute;top:0;left:0;width:100%;height:100%;}</style>
+<div class="codegena_iframe"><iframe src="https://USERNAME.github.io/CoinHiveMiner/index.html" height="255" width="442"  style="border:0px;float:middle;"></iframe></div><style>.codegena_iframe{position:relative;padding-bottom:32%;height:0;overflow: hidden;max-width:100%;}.codegena_iframe iframe{position:absolute;top:0;left:0;width:100%;height:100%;}</style>
 ```
 
 ## More Options
