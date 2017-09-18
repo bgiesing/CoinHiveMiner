@@ -14,11 +14,14 @@ This template allows you to easily embed the [CoinHive Miner](https://coin-hive.
 <div class="codegena_iframe"><iframe src="https://USERNAME.github.io/CoinHiveMiner/index.html" height="255" width="442"  style="border:0px;float:middle;"></iframe></div><style>.codegena_iframe{position:relative;padding-bottom:32%;height:0;overflow: hidden;max-width:100%;}.codegena_iframe iframe{position:absolute;top:0;left:0;width:100%;height:100%;}</style>
 ```
 
-## More Options
-The above 5 steps will get you up quickly but there's a few other things and alternatives you can do.
+Once you have it set up, you can optionally swap out the text, color scheme, and/or CoinHive logo with your own branding to make it fit better into your page. 
 
-1. Swap out the text, color scheme, and/or CoinHive logo with your own branding to make it fit better into your page
-2. Host somewhere else! I made this based around GitHub Pages to make it simple and work on sites that don't allow HTML page uploads with their own styling (common in CMSes like WordPress, Blogger, etc.) but if your host allows you, it would be better to upload the HTML file to your site and replace the full URL in the embed code above, not just the GitHub username.
+## Alternatives
+The above 5 steps will get you up quickly but you don't have to do it exactly as mentioned above. I made this based around GitHub Pages to make it simple and work on sites that don't allow HTML page uploads with their own styling (common in CMSes like WordPress, Blogger, etc.) but there's other hosting options and ways to embed it if you prefer.
+
+- Host it on your own server. If your host allows you to directly upload HTML files, you can just upload the `index.html` file to your site, rename it to something else (to not conflict with your website) and replace the full URL in the embed code above to the page.
+- You also don't have to even embed it, just link the GitHub Pages URL directly.
+- GitLab is another Git service that has page hosting
 
 # Disclaimer/Credits
 I'm not associated with CoinHive and this code is based heavily on their original code on their homepage. All I did was modualize it into simple embed and optimized the code to remove CSS/JS/IMGs that are no longer used after converting it.
