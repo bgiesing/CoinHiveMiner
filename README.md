@@ -1,7 +1,10 @@
-# CoinHive Miner Embed Template
+# CoinHive Miner Embed Template [DISCONTINUED]
 This template allows you to easily embed the [CoinHive Miner](https://coin-hive.com) into your own site to earn money without ads by letting your site visitors optionally mine Monero (a cryptocurrency similar to Bitcoin, Ether, etc.) using their CPU power by leaving the page open.
 
 [Demo on my website](https://brandongiesing.com/cosimine/)
+
+# UPDATE!
+Coin-Hive has released their own UI code finally and moved domains. I'm updating this code if you still want to use it to point to the new URL but you should ideally switch to the actual UI widget provided by CoinHive now as I won't be updating it anymore after this. https://coinhive.com/documentation/simple-ui
 
 ## Quick Start
 1. Signup for [CoinHive](https://coin-hive.com/account/signup)
